@@ -1,0 +1,9 @@
+{
+  "name": "esrenll.github.io",
+  "version": "0.0.1",
+  "author": "esrenll",
+  "license": "ISC",
+  "scripts": {
+    "build": "echo build(all)"
+  }
+}
